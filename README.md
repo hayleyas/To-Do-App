@@ -1,6 +1,7 @@
 # todo-app
 
 > A Vue.js project
+Tutorial from https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2#main-app-component
 
 ## Build Setup
 
